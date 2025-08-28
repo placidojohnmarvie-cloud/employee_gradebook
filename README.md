@@ -1,5 +1,3 @@
-# employee_gradebook
-
 # Employee Gradebook  
 
 An Excel-based employee gradebook that evaluates performance and presents data in a clear, automated, and visual way.  
